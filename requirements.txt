@@ -1,0 +1,5 @@
+streamlit
+lyricsgenius
+sqlite3
+wordcloud
+matplotlib
